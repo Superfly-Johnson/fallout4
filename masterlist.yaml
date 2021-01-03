@@ -5600,7 +5600,14 @@ plugins:
         itm: 1935
         udr: 1971
         nav: 5
-
+  - name: 'FROSTmoreDoors.esp'
+    url: [ 'https://www.nexusmods.com/fallout4/mods/46320' ]
+    dirty:
+      - <<: *quickClean
+        crc: 0x2209D8D8
+        util: '[FO4Edit v4.0.3](https://www.nexusmods.com/fallout4/mods/2737)'
+        itm: 17
+        udr: 1
 ###### Horizon ######
   - name: 'Z_(Architect|Horizon)\.es(m|p)'
     url: [ 'https://www.nexusmods.com/fallout4/mods/17374' ]
