@@ -5821,3 +5821,11 @@ plugins:
         util: '[FO4Edit v4.0.3](https://www.nexusmods.com/fallout4/mods/2737)'
         itm: 227
         udr: 2
+  - name: 'Winter Overhaul.esp'
+    url: [ 'https://www.nexusmods.com/fallout4/mods/28665' ]
+    dirty:
+      - <<: *quickClean
+        crc: 0xFDDC0A09
+        util: '[FO4Edit v4.0.3](https://www.nexusmods.com/fallout4/mods/2737)'
+        itm: 110
+        udr: 63
